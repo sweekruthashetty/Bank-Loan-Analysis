@@ -4,9 +4,13 @@
 
 🛠 Tech Stack
   Tableau – Interactive dashboard development and data visualization
+  
   SQL (MySQL) – Data extraction, querying, aggregation, and analysis
+  
   Microsoft Excel – Data source, cleaning, and preprocessing
+  
   Data Modeling – Data relationships and business logic implementation
+  
   Calculated Fields – Custom metrics and KPI calculations in Tableau
 
 ✨ Features
