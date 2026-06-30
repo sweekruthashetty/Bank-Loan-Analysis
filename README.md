@@ -3,15 +3,11 @@
 ##### An end-to-end Bank Loan Analysis project built with Excel, SQL, and Tableau to evaluate loan portfolio performance, repayment trends, borrower profiles, and credit risk through interactive dashboards and business intelligence reporting.
 
 🛠 Tech Stack
-  Tableau – Interactive dashboard development and data visualization
-  
-  SQL (MySQL) – Data extraction, querying, aggregation, and analysis
-  
-  Microsoft Excel – Data source, cleaning, and preprocessing
-  
-  Data Modeling – Data relationships and business logic implementation
-  
-  Calculated Fields – Custom metrics and KPI calculations in Tableau
+   Tableau – Interactive dashboard development and data visualization
+   SQL (MySQL) – Data extraction, querying, aggregation, and analysis
+   Microsoft Excel – Data source, cleaning, and preprocessing
+   Data Modeling – Data relationships and business logic implementation
+   Calculated Fields – Custom metrics and KPI calculations in Tableau
 
 ✨ Features
   Executive dashboard with key loan performance KPIs
